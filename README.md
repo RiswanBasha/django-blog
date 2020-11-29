@@ -33,4 +33,4 @@ DJANGO COURSE STUDY BLOG - STK LEARNING HOME
 
   password : riswan2000
 
-  Enjoy the Djangoing!!!!
+  Enjoy the Django-ing!!!!
