@@ -1,4 +1,4 @@
-django-blog 
+DJANGO COURSE STUDY BLOG - STK LEARNING HOME
 
 It is created using Django and deployed at pythonanywhere.com 
 
