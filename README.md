@@ -1,6 +1,6 @@
 DJANGO COURSE STUDY BLOG - STK LEARNING HOME
 
-  It is created using Django and deployed at pythonanywhere.com 
+  It is created using Django , CSS , HTML , Tinymce, Beautifulsoup , Pillow and deployed at pythonanywhere.com 
 
   Main Features:
 
