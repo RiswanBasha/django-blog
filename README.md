@@ -1,4 +1,5 @@
 django-blog 
+
 It is created using Django and deployed at pythonanywhere.com 
 
 Main Features:
@@ -25,6 +26,7 @@ Main Features:
 
 
 Website Link : http://karthikeyanst.pythonanywhere.com/blogs
+
 Admin panel Link : http://karthikeyanst.pythonanywhere.com/admin 
 
 username : riswan
